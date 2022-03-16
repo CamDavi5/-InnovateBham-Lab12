@@ -30,7 +30,7 @@ README.md
  
 
 Simple Tasks a la React
-React is component-based, and each component should be separated into its own file. Start this exercise by going to your "App.jsx" file in your src directory. Then, code a function component named "App", and return a simple JSX element inside of that component (Hint: start with something obvious, like a <h1> element). Don't forget to export your App component at the bottom of the file!
+React is component-based, and each component should be separated into its own file. Start this exercise by going to your "App.jsx" file in your src directory. Then, code a function component named "App", and return a simple JSX element inside of that component (Hint: start with something obvious, like a h1 element). Don't forget to export your App component at the bottom of the file!
 
 Head to your terminal and start this React project with npm start. Make sure it renders your App component without any errors!
 
